@@ -38,7 +38,7 @@
 В нашем внешнем API есть методы обновления данных о клиенте.
 
 <!-- Указываем корректную ссылку для работы с API -->
-[![Как обновить профиль клиента по внешнему ID](IMG/Client_profile_update.png)](https://docs-chatcenter.edna.ru/docs/api/external-api/clients/get-client-profile)
+[![Как обновить профиль клиента по внешнему ID](IMG/Client_profile_update.png)](https://docs-chatcenter.edna.ru/docs/api/external-api/clients/update-client-by-external-id)
 
 <!-- Два раза подряд идёт обращение "вы" -->
 Если вы используете CRM, то можете реализовать вызов наших методов для обновления информации о персональном менеджере клиента.
